@@ -83,10 +83,21 @@
   </a>
 </div>
 
+
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pepequentin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=pepequentin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
 
-<img src="https://raw.githubusercontent.com/pepequentin/pepequentin/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pepequentin/pepequentin/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pepequentin/pepequentin/output/snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/pepequentin/pepequentin/output/snake.svg">
+</picture>
 
 ###
