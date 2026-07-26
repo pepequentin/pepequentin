@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/ca5fbb58-de70-4b10-ae37-84322932b66c" />
+
 <h2 align="left">Hi 👋! My name is Quentin and I'm building automation, data and scripting tools from France.</h2>
 
 ###
@@ -56,15 +58,15 @@
 
 ###
 
-<h3 align="left">🚀 Current interests</h3>
-
-<ul align="left">
+<h3>🚀 Current interests</h3>
+<ul>
   <li>Python tools for automation and data processing</li>
   <li>C programming and low-level logic</li>
   <li>Microsoft Access databases and business workflows</li>
   <li>Virtual machines, containers and local infrastructure</li>
   <li>Scripts that save time and reduce repetitive work</li>
 </ul>
+
 
 ###
 
@@ -101,5 +103,40 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pepequentin/pepequentin/output/snake.svg">
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/pepequentin/pepequentin/output/snake.svg">
 </picture>
+
+###
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://giphy.com/gifs/lego-disney-star-wars-3o7btTuxoZaEvg5oUo">
+        <img
+          src="https://media.giphy.com/media/3o7btTuxoZaEvg5oUo/giphy.gif"
+          width="250"
+          alt="LEGO Star Wars victory"
+        />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://giphy.com/gifs/xbox-lego-xbox-series-x-star-wars-2shwchSsoqB4mUh1Yh">
+        <img
+          src="https://media.giphy.com/media/2shwchSsoqB4mUh1Yh/giphy.gif"
+          width="250"
+          alt="LEGO Star Wars droid"
+        />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://giphy.com/gifs/lego-star-wars-summer-l41K3Js46AdI6zdIs">
+        <img
+          src="https://media.giphy.com/media/l41K3Js46AdI6zdIs/giphy.gif"
+          width="250"
+          alt="LEGO Star Wars fail"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
