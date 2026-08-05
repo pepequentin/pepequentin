@@ -1,6 +1,4 @@
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/ca5fbb58-de70-4b10-ae37-84322932b66c" />
-
-<h2 align="left">Hi 👋! My name is Quentin and I'm building automation, data and scripting tools from France.</h2>
+<h2 align="left">Hi! My name is Quentin and I'm building automation, data and scripting tools from France.</h2>
 
 ###
 
